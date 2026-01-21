@@ -1,6 +1,6 @@
 Hi there, I'm Katlego Ngakatau
 
-Aspiring Software Engineer | Data Analyst | Cloud Enthusiast
+Aspiring Data Scientist | Data Analyst | Cloud Enthusiast
 
 I'm driven by building scalable back-end systems and using data analytics to drive insights and 
 decision-making. With a background in Public Management & Governance and hands-on experience in ICT 
